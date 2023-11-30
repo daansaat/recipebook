@@ -2,7 +2,6 @@
 This application is made using the Spring Boot framework, with Spring Data JPA for data handling and an H2 in-memory database for storage.
 
 ## Architectural Design
-### Layered Architecture
 The application follows a layered architecture, which separates concerns and promotes maintainability and scalability.
 
 Service Layer (RecipeService): Contains the business logic of the application.
