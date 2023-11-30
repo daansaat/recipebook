@@ -13,7 +13,8 @@ Entity Layer (Recipe and Ingredient): The domain model of the application. These
 Data Transfer Object (DTO) (RecipeDto): Facilitates the transfer of data between layers.
 
 ## Running the Application
-Ensure you have Docker installed.
+#### Dependency
+###### Docker
 Go to the project's root directory in terminal.
 Run the application using the following Makefile commands:
 
